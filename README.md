@@ -124,10 +124,3 @@ Based on the analysis, the following recommendations can be explored:
 
 These recommendations should be tested against additional evidence before implementation
 
-## Author
-
-**Priyasha Soni**
-
-Business Operations | Data Analytics | Business Intelligence
-
-This project reflects my interest in combining analytical tools with business understanding to solve practical business problems and support data-driven decision-making.
