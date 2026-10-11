@@ -1,5 +1,4 @@
 # Diwali-Sales-Analysis-Python
-# Diwali Sales Analysis Using Python
 
 ## 1. Project Introduction
 
